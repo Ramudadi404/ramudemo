@@ -1,6 +1,6 @@
-git add (used for add one track stage to another track stage) 
+kgit add (used for add one track stage to another track stage) 
 git status (used for we can check our file tracking stage)
 git commit -m"your comment here" (we can identify which file is modified )
 git push (used for our file move from local repo to remote repo)
-git remote set-url origin https://<token key>@github.com/<username>/<repo_name> (its mainly used for we are using git in  ec2 instance before push command)
-git -
+git remote set-url origin https://<token access key>@github.com/Ramudadi404/ramudemo (its mainly used for we are using git in  ec2 instance before push command)
+git -stack
