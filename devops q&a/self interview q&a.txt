@@ -1,0 +1,17 @@
+1. Tell me about your self
+A. Good morning sir/mam 
+   I am Ramu Dadi  from Visakhapatnam, i have completed my 10th class  in 2010 and my Diploma have completed (ece) in 2014, have completed graduation in 2021
+   After graduation i  have worked as an instrumentation engineer  Aurobindo pharma, Lupin pharma  in 2019 to 2022. 
+   And then i changed my carrier path to IT industry side after that i joined AWS and DevOps in visualpath  institution at Hyderabad
+   and then i joined an internship in Asquare enterprises and now i worked procrop Indian pvt ltd
+   About my knowledge 
+        i have good knowledge on Linux and AWS, DevOps tools like (Git&Github, Maven, Jenkins(CICD), Docker,Kubernates, Ansible, Terraform,   
+        Shell Scripting
+  About my hobies:
+        i lission and watched podcasts  time spend with friends and family,playing table tennis(free time)
+  About my stenth:
+        i am self motivated and thinking positively, respectful person
+  About my weakness:
+        i can't speak in front of the lot of people
+  
+   
